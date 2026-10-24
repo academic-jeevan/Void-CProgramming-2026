@@ -1,2 +1,0 @@
-this is c code
-
